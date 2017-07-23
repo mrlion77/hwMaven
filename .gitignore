@@ -1,1 +1,5 @@
 ﻿.idea/*
+core/target/*
+dao/target/*
+web/target/*
+HW_Maven.iml
