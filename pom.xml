@@ -7,7 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>SkillsUp HW Maven</name>
-    <url>http://maven.apache.org</url>
+    <!--<url>http://maven.apache.org</url>-->
 
     <modules>
         <module>core</module>
